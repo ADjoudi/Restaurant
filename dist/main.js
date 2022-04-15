@@ -16,7 +16,7 @@
   \*************************************************************/
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n// Imports\n\n\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\n___CSS_LOADER_EXPORT___.push([module.id, \"@import url(https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&family=Erica+One&family=Roboto:wght@400;500;700&display=swap);\"]);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \":root {\\n  --primary-color: #482f2f;\\n  --secondary-color: #c42c2c;\\n  --background-color: #fff9f0;\\n}\\n\\n* {\\n  margin: 0;\\n  padding: 0;\\n  box-sizing: border-box;\\n  color: var(--primary-color);\\n}\\n\\nbody {\\n  background-color: var(--background-color);\\n  width: 100vw;\\n  height: 100vh;\\n}\\n\\nheader {\\n  display: flex;\\n  align-items: center;\\n  justify-content: space-between;\\n  padding: 1rem 8rem;\\n}\\n\\nheader .logo {\\n  font-family: \\\"Comfortaa\\\", cursive;\\n  font-size: 1.5rem;\\n}\\n\\nheader nav {\\n  display: flex;\\n  gap: 2.75rem;\\n}\\n\\nheader nav a {\\n  font-family: \\\"Roboto\\\", sans-serif;\\n  font-size: 1rem;\\n}\\nheader nav a:hover {\\n  cursor: pointer;\\n}\\n\\n.clicked-link {\\n  color: var(--secondary-color);\\n}\\n\\nheader > img {\\n  width: 3.2rem;\\n  height: 3.2rem;\\n}\\n\\n.hero {\\n  display: flex;\\n  align-items: center;\\n  justify-content: center;\\n  gap: 7.25rem;\\n  margin-top: 8.5rem;\\n}\\n\\n.hero .pitch {\\n  display: flex;\\n  flex-direction: column;\\n  align-items: start;\\n  gap: 6rem;\\n}\\n\\n.hero .pitch p {\\n  font-family: \\\"Erica One\\\", cursive;\\n  font-size: 4rem;\\n  white-space: pre;\\n}\\n\\n.hero .pitch .hero-btn {\\n  color: white;\\n  background-color: var(--secondary-color);\\n  padding: 1.25rem 2.5rem;\\n  border: none;\\n  border-radius: 3rem;\\n  font-weight: bold;\\n  font-size: 1.25rem;\\n}\\n\\n.hero .pitch .hero-btn:hover {\\n  cursor: pointer;\\n}\\n\\n.hero img {\\n  width: 35.5rem;\\n  height: 35.5rem;\\n}\\n\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://restaurant/./src/style.css?./node_modules/css-loader/dist/cjs.js");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (__WEBPACK_DEFAULT_EXPORT__)\n/* harmony export */ });\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/noSourceMaps.js */ \"./node_modules/css-loader/dist/runtime/noSourceMaps.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0__);\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ../node_modules/css-loader/dist/runtime/api.js */ \"./node_modules/css-loader/dist/runtime/api.js\");\n/* harmony import */ var _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default = /*#__PURE__*/__webpack_require__.n(_node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1__);\n// Imports\n\n\nvar ___CSS_LOADER_EXPORT___ = _node_modules_css_loader_dist_runtime_api_js__WEBPACK_IMPORTED_MODULE_1___default()((_node_modules_css_loader_dist_runtime_noSourceMaps_js__WEBPACK_IMPORTED_MODULE_0___default()));\n___CSS_LOADER_EXPORT___.push([module.id, \"@import url(https://fonts.googleapis.com/css2?family=Comfortaa:wght@700&family=Erica+One&family=Roboto:wght@400;500;700&display=swap);\"]);\n// Module\n___CSS_LOADER_EXPORT___.push([module.id, \":root {\\n  --primary-color: #482f2f;\\n  --secondary-color: #c42c2c;\\n  --background-color: #fff9f0;\\n}\\n\\n* {\\n  margin: 0;\\n  padding: 0;\\n  box-sizing: border-box;\\n  color: var(--primary-color);\\n}\\n\\nbody {\\n  background-color: var(--background-color);\\n  width: 100vw;\\n  height: 100vh;\\n  font-family: \\\"Roboto\\\", sans-serif;\\n}\\n\\nheader {\\n  display: flex;\\n  align-items: center;\\n  justify-content: space-between;\\n  padding: 1rem 8rem;\\n}\\n\\nheader .logo {\\n  font-family: \\\"Comfortaa\\\", cursive;\\n  font-size: 1.5rem;\\n}\\n\\nheader nav {\\n  display: flex;\\n  gap: 2.75rem;\\n}\\n\\nheader nav a {\\n  font-family: \\\"Roboto\\\", sans-serif;\\n  font-size: 1rem;\\n}\\nheader nav a:hover {\\n  cursor: pointer;\\n}\\n\\n.clicked-link {\\n  color: var(--secondary-color);\\n}\\n\\nheader > img {\\n  width: 3.2rem;\\n  height: 3.2rem;\\n}\\n\\n.hero {\\n  display: flex;\\n  align-items: center;\\n  justify-content: center;\\n  gap: 7.25rem;\\n  margin-top: 8.5rem;\\n}\\n\\n.hero .pitch {\\n  display: flex;\\n  flex-direction: column;\\n  align-items: start;\\n  gap: 6rem;\\n}\\n\\n.hero .pitch p {\\n  font-family: \\\"Erica One\\\", cursive;\\n  font-size: 4rem;\\n  white-space: pre;\\n}\\n\\n.hero .pitch .hero-btn {\\n  color: white;\\n  background-color: var(--secondary-color);\\n  padding: 1.25rem 2.5rem;\\n  border: none;\\n  border-radius: 3rem;\\n  font-weight: bold;\\n  font-size: 1.25rem;\\n}\\n\\n.hero .pitch .hero-btn:hover {\\n  cursor: pointer;\\n}\\n\\n.hero img {\\n  width: 35.5rem;\\n  height: 35.5rem;\\n}\\n\\n/*////////////////////////////\\n///////////Menu//////////////\\n////////////////////////////*/\\n\\n.menu {\\n  display: grid;\\n  grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));\\n  gap: 8rem;\\n  padding: 6rem 14rem;\\n  justify-content: center;\\n}\\n\\n.menu .menuItem,\\n.info {\\n  position: relative;\\n  padding: 1rem;\\n  display: flex;\\n  flex-direction: column;\\n  align-items: center;\\n  justify-content: start;\\n  gap: 0.8rem;\\n  transition: all ease 1s;\\n}\\n.info {\\n  background-color: white;\\n  z-index: -1;\\n  border: none;\\n  border-radius: 15px;\\n}\\n.menuItem img {\\n  width: 7.125rem;\\n  filter: drop-shadow(0px 20px 20px rgba(103, 102, 102, 0.748));\\n}\\n\\n.menuItem .price {\\n  padding: 0.25rem 0.5rem;\\n  background-color: var(--secondary-color);\\n  color: white;\\n  border: none;\\n  border-radius: 45px;\\n  position: absolute;\\n  bottom: -20%;\\n}\\n\\n/*////////////////////////////\\n///////////About//////////////\\n////////////////////////////*/\\n\\n.about {\\n  padding: 8rem;\\n  display: flex;\\n  flex-direction: column;\\n  align-items: start;\\n  justify-content: start;\\n  gap: 4rem;\\n}\\n\\n.aboutTitle {\\n  font-family: \\\"Erica One\\\", cursive;\\n  font-size: 4rem;\\n}\\n\\n.aboutText {\\n  width: 60vw;\\n  font-size: 1.2rem;\\n  font-weight: 500;\\n}\\n\", \"\"]);\n// Exports\n/* harmony default export */ const __WEBPACK_DEFAULT_EXPORT__ = (___CSS_LOADER_EXPORT___);\n\n\n//# sourceURL=webpack://restaurant/./src/style.css?./node_modules/css-loader/dist/cjs.js");
 
 /***/ }),
 
@@ -116,7 +116,7 @@ eval("\n\n/* istanbul ignore next  */\nfunction styleTagTransform(css, styleElem
   \**********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ appendAbout)\n/* harmony export */ });\nfunction appendAbout(content) {\n  //hero section\n  const about = document.createElement(\"p\");\n  about.textContent = \"this is the about page\";\n\n  content.appendChild(about);\n}\n\n\n//# sourceURL=webpack://restaurant/./src/about.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ appendAbout)\n/* harmony export */ });\nfunction appendAbout(content) {\n  const about = document.createElement(\"div\");\n  about.classList.add(\"about\");\n  const aboutTitle = document.createElement(\"p\");\n  aboutTitle.textContent = \"Your new favorite place!\";\n  aboutTitle.classList.add(\"aboutTitle\");\n  const aboutText = document.createElement(\"p\");\n  aboutText.textContent =\n    \"According to all known laws of aviation, there is no way a bee should be able to fly. Its wings are too small to get its fat little body off the ground. The bee, of course, flies anyway because bees don't care what humans think is impossible. Yellow, black. Yellow, black. Yellow, black. Yellow, black. Ooh, black and yellow! Let's shake it up a little. Barry! Breakfast is ready! Ooming! Hang on a second. Hello? - Barry? - Adam? - Oan you believe this is happening? - I can't. I'll pick you up. Looking sharp.\";\n  aboutText.classList.add(\"aboutText\");\n\n  about.appendChild(aboutTitle);\n  about.appendChild(aboutText);\n\n  content.appendChild(about);\n}\n\n\n//# sourceURL=webpack://restaurant/./src/about.js?");
 
 /***/ }),
 
@@ -156,7 +156,7 @@ eval("__webpack_require__.r(__webpack_exports__);\n/* harmony import */ var _sty
   \*********************/
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
-eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ appendMenu)\n/* harmony export */ });\nfunction appendMenu(content) {\n  //hero section\n  const menu = document.createElement(\"p\");\n  menu.textContent = \"menu menu menu menu menu menu menu menu\";\n\n  content.appendChild(menu);\n}\n\n\n//# sourceURL=webpack://restaurant/./src/menu.js?");
+eval("__webpack_require__.r(__webpack_exports__);\n/* harmony export */ __webpack_require__.d(__webpack_exports__, {\n/* harmony export */   \"default\": () => (/* binding */ appendMenu)\n/* harmony export */ });\n/* harmony import */ var _resources_i1_png__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(/*! ./resources/i1.png */ \"./src/resources/i1.png\");\n/* harmony import */ var _resources_i2_png__WEBPACK_IMPORTED_MODULE_1__ = __webpack_require__(/*! ./resources/i2.png */ \"./src/resources/i2.png\");\n/* harmony import */ var _resources_i3_png__WEBPACK_IMPORTED_MODULE_2__ = __webpack_require__(/*! ./resources/i3.png */ \"./src/resources/i3.png\");\n/* harmony import */ var _resources_i4_png__WEBPACK_IMPORTED_MODULE_3__ = __webpack_require__(/*! ./resources/i4.png */ \"./src/resources/i4.png\");\n/* harmony import */ var _resources_i5_png__WEBPACK_IMPORTED_MODULE_4__ = __webpack_require__(/*! ./resources/i5.png */ \"./src/resources/i5.png\");\n/* harmony import */ var _resources_i6_png__WEBPACK_IMPORTED_MODULE_5__ = __webpack_require__(/*! ./resources/i6.png */ \"./src/resources/i6.png\");\n\n\n\n\n\n\n\nconst itemList = [\n  {\n    title: \"vegiterian\",\n    discription: \"delicious\",\n    price: \"5.99$\",\n    img: _resources_i1_png__WEBPACK_IMPORTED_MODULE_0__,\n  },\n  {\n    title: \"Neapolitan\",\n    discription: \"authentic\",\n    price: \"2.99$\",\n    img: _resources_i2_png__WEBPACK_IMPORTED_MODULE_1__,\n  },\n  {\n    title: \"Sicilian\",\n    discription: \"delicious\",\n    price: \"7.99$\",\n    img: _resources_i3_png__WEBPACK_IMPORTED_MODULE_2__,\n  },\n  {\n    title: \"Greek\",\n    discription: \"delicious\",\n    price: \"1.99$\",\n    img: _resources_i4_png__WEBPACK_IMPORTED_MODULE_3__,\n  },\n  {\n    title: \"Cheese\",\n    discription: \"delicious\",\n    price: \"8.99$\",\n    img: _resources_i5_png__WEBPACK_IMPORTED_MODULE_4__,\n  },\n  {\n    title: \"Leaf\",\n    discription: \"delicious\",\n    price: \"5.99$\",\n    img: _resources_i6_png__WEBPACK_IMPORTED_MODULE_5__,\n  },\n];\n\nfunction appendMenu(content) {\n  let menu = document.createElement(\"div\");\n  menu.classList.add(\"menu\");\n  for (let i = 0; i < itemList.length; i++) {\n    let item = document.createElement(\"div\");\n    let image = document.createElement(\"img\");\n    let info = document.createElement(\"div\");\n    let title = document.createElement(\"h3\");\n    let discription = document.createElement(\"p\");\n    let price = document.createElement(\"p\");\n\n    item.classList.add(\"menuItem\");\n    image.src = itemList[i].img;\n    info.classList.add(\"info\");\n    title.textContent = itemList[i].title;\n    discription.textContent = itemList[i].discription;\n    price.textContent = itemList[i].price;\n    price.classList.add(\"price\");\n\n    info.appendChild(title);\n    info.appendChild(discription);\n    info.appendChild(price);\n\n    item.appendChild(image);\n    item.appendChild(info);\n\n    menu.appendChild(item);\n  }\n  content.appendChild(menu);\n}\n\n\n//# sourceURL=webpack://restaurant/./src/menu.js?");
 
 /***/ }),
 
@@ -177,6 +177,56 @@ eval("module.exports = __webpack_require__.p + \"13736023fba4ba010cc0.png\";\n\n
 /***/ ((module, __unused_webpack_exports, __webpack_require__) => {
 
 eval("module.exports = __webpack_require__.p + \"5340eb9529c0dfcfeea3.png\";\n\n//# sourceURL=webpack://restaurant/./src/resources/i1.png?");
+
+/***/ }),
+
+/***/ "./src/resources/i2.png":
+/*!******************************!*\
+  !*** ./src/resources/i2.png ***!
+  \******************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"6378cc09a2d0601af685.png\";\n\n//# sourceURL=webpack://restaurant/./src/resources/i2.png?");
+
+/***/ }),
+
+/***/ "./src/resources/i3.png":
+/*!******************************!*\
+  !*** ./src/resources/i3.png ***!
+  \******************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"2c857d374f584e235c70.png\";\n\n//# sourceURL=webpack://restaurant/./src/resources/i3.png?");
+
+/***/ }),
+
+/***/ "./src/resources/i4.png":
+/*!******************************!*\
+  !*** ./src/resources/i4.png ***!
+  \******************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"edd73eb9c6b78144489c.png\";\n\n//# sourceURL=webpack://restaurant/./src/resources/i4.png?");
+
+/***/ }),
+
+/***/ "./src/resources/i5.png":
+/*!******************************!*\
+  !*** ./src/resources/i5.png ***!
+  \******************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"6d53215fca9677da7908.png\";\n\n//# sourceURL=webpack://restaurant/./src/resources/i5.png?");
+
+/***/ }),
+
+/***/ "./src/resources/i6.png":
+/*!******************************!*\
+  !*** ./src/resources/i6.png ***!
+  \******************************/
+/***/ ((module, __unused_webpack_exports, __webpack_require__) => {
+
+eval("module.exports = __webpack_require__.p + \"cb48e4dc704419821a2b.png\";\n\n//# sourceURL=webpack://restaurant/./src/resources/i6.png?");
 
 /***/ })
 
